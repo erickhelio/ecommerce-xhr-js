@@ -1,5 +1,5 @@
 # Exemplo de Requisição Assíncrona com XMLHttpRequest
-# Projeto Proposto durante estudos na universidade de Vila Velha
+# Projeto proposto durante os estudos na Universidade de Vila Velha.
 
 Este projeto demonstra o uso do objeto `XMLHttpRequest` para consumir uma API REST de forma assíncrona.
 A API usada é a DummyJSON (https://dummyjson.com/), que fornece dados fictícios de produtos (nome, preço, descrição, imagem).
